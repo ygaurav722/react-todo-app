@@ -145,3 +145,8 @@ h1 {
 .edit-icon {
   color: #fff;
 }
+
+.complete{
+  text-decoration: line-through;
+  opacity: 0.4;
+}
